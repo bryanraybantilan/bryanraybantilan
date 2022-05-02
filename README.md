@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanraybantilan
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Google Data Analytics
+- 🌱 Completed Google Data Analytics Certification
 
 
 <!---
